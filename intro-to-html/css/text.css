@@ -1,0 +1,57 @@
+
+
+  
+  .video-title
+  {
+    font-family: Barriecito;
+    font-size: 18px;
+    font-weight: bold;
+    width: 300px;
+    line-height: 24px;
+    margin-bottom: 8px;
+
+
+    
+  }
+  .video-stats
+  {
+    font-family: arial;
+    opacity: 0.6;
+    margin-top: 0px;
+  }
+  .name
+  {
+    font-family: arial;
+    opacity: 0.6;
+  }
+  .description
+  {
+    font-family: arial;
+    opacity: 0.6;
+    width: 350px;
+    line-height: 24px;
+
+  }
+  .shopping
+  {
+    font-family: arial;
+    color: white;
+    background-color: rgb(221, 88, 88);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 14px;
+
+
+  }
+  .shopnow
+  {
+    cursor: pointer;
+    margin-left:12px;
+  }
+  .shopnow:hover
+  {
+    text-decoration: underline;
+  }
