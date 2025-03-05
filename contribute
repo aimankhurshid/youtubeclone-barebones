@@ -1,0 +1,37 @@
+.container
+{
+
+    background-color: black;
+    width: 300px;
+    height: 100px;
+    display: flex;
+    flex-direction:row;
+    position: relative;
+    justify-content: left;
+    align-items: center;
+    opacity: 0;
+    cursor: pointer;
+
+}
+.container:hover
+{
+    opacity: 1;
+    transition: 1s;
+    
+}
+.image
+{
+    width: 100%px;
+    border-radius: 50px;
+}
+.leftside
+{
+    display: inline-block;
+    margin:10px;
+}
+.rightside
+{
+    background-color: brown;
+    color: white;
+    display: inline-block;
+}
