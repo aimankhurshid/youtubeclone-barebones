@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../intro-to-html"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WEBDEV"
+	}
+}

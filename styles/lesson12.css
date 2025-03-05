@@ -1,0 +1,36 @@
+p
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.sabsebadaflex
+{
+    background-color: rgb(126 95 181);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    height: 70px;
+    .left
+    {
+        color:white;
+        margin-left: 10px;
+    }
+    .download
+    {
+        border: 1px solid white;
+        padding-top: 0;
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-right: 10px;
+    }
+    .search
+    {
+        background-color: white;
+        width: 60vw;
+        margin-right: 10px;
+        margin-left: 10px;
+        border-radius: 30px;
+    }
+}
