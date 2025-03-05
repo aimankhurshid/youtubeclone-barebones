@@ -1,0 +1,18 @@
+.channel-tooltip {
+  position: absolute;
+  background-color: white;
+  padding: 12px;
+  border-radius: 6px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.3);
+  z-index: 200;
+  bottom: -130px;
+  left: 0;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.15s;
+  width: 200px;
+}
+
+.profile-picture-wrapper:hover .channel-tooltip {
+  opacity: 1;
+}
